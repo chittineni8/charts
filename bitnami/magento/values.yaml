@@ -13,8 +13,8 @@
 ##
 image:
   registry: docker.io
-  repository: bitnami/magento
-  tag: 2.4.2-debian-10-r40
+  repository: chitti1713/php7.3
+  tag: latest
   ## Specify a imagePullPolicy
   ## Defaults to 'Always' if image tag is 'latest', else set to 'IfNotPresent'
   ## ref: http://kubernetes.io/docs/user-guide/images/#pre-pulling-images
